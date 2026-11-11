@@ -5,5 +5,4 @@ Suivi de mon apprentissage de Linux avec TryHackMe. Cette partie complète mon p
 ## Avancement
 
 | Date | Salle | Thème | Compte rendu |
-|---|---|---|---|
-| 10/11/2026 | Linux Fundamentals Part 1 | En cours | [Journal](journal/2026-11-10.md) |
+| 10/11/2026 | Linux Fundamentals Part 1 | Navigation, recherche, opérateurs shell | [Journal](journal/2026-11-10.md) |
