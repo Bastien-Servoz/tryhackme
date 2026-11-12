@@ -8,3 +8,4 @@ Suivi de mon apprentissage de Linux avec TryHackMe. Cette partie complète mon p
 |---|---|---|---|
 | 10/11/2026 | Linux Fundamentals Part 1 | Navigation, recherche, opérateurs shell | [Journal](journal/2026-11-10.md) |
 | 11/11/2026 | Linux Fundamentals Part 2 | SSH, arguments, gestion des fichiers, utilisateurs | [Journal](journal/2026-11-11.md) |
+| 12/11/2026 | Linux Fundamentals Part 3 | Éditeurs, utilitaires, processus, cron, paquets, journaux | [Journal](journal/2026-11-12.md) |
