@@ -9,5 +9,6 @@ Je note ici avec mes propres mots ce que j'apprends, jour après jour. Aucune r�
 | Domaine | Contenu | Dossier |
 |---|---|---|
 | Linux | Linux Fundamentals | [linux/](linux/) |
+| Cybersécurité | Parcours TryHackMe : sécurité offensive et défensive, métiers | [cybersecurity/](cybersecurity/) |
 
 D'autres domaines (réseau, web, cybersécurité) seront ajoutés au fil de l'avancement.
