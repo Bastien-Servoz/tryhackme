@@ -9,3 +9,4 @@ Parcours TryHackMe suivi dans l'ordre. Aucune réponse, aucun flag ni texte de s
 | 18/11/2026 | Principes fondamentaux du cloud computing ; Systèmes d'exploitation : Introduction | Cloud (IaaS, PaaS, SaaS, types de cloud) ; rôle et types de systèmes d'exploitation | [Journal](journal/2026-11-18.md) |
 | 19/11/2026 | Notions de base de Windows | Interface Windows, mises à jour, outils de sécurité intégrés | [Journal](journal/2026-11-19.md) |
 | 20/11/2026 | Notions de base de l'interface de ligne de commande Linux | Navigation, recherche de fichiers, inspection du système en ligne de commande | [Journal](journal/2026-11-20.md) |
+| 21/11/2026 | Notions de base de l'interface de ligne de commande Windows ; Sécurité du système d'exploitation | Ligne de commande Windows (CMD) ; triade CIA, mots de passe faibles, permissions, malwares | [Journal](journal/2026-11-21.md) |
