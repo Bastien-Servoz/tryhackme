@@ -12,4 +12,4 @@ Parcours TryHackMe suivi dans l'ordre. Aucune réponse, aucun flag ni texte de s
 | 21/11/2026 | Notions de base de l'interface de ligne de commande Windows ; Sécurité du système d'exploitation | Ligne de commande Windows (CMD) ; triade CIA, mots de passe faibles, permissions, malwares | [Journal](journal/2026-11-21.md) |
 | 22/11/2026 | Représentation des données | Couleurs, bits et octets, systèmes binaire, hexadécimal et octal | [Journal](journal/2026-11-22.md) |
 | 23/11/2026 | Encodage des données | ASCII, ISO-8859, Unicode, UTF-8/16/32 | [Journal](journal/2026-11-23.md) |
-| 24/11/2026 | Python : Démo simple | Variables, conditions (if/elif/else), boucle while | [Journal du 24/11/2026](journal/2026-11-24.md) |
+| 24/11/2026 | Python : Démo simple | Variables, conditions (if/elif/else), boucle while | [Journal](journal/2026-11-24.md) |
