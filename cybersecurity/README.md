@@ -13,3 +13,4 @@ Parcours TryHackMe suivi dans l'ordre. Aucune réponse, aucun flag ni texte de s
 | 22/11/2026 | Représentation des données | Couleurs, bits et octets, systèmes binaire, hexadécimal et octal | [Journal](journal/2026-11-22.md) |
 | 23/11/2026 | Encodage des données | ASCII, ISO-8859, Unicode, UTF-8/16/32 | [Journal](journal/2026-11-23.md) |
 | 24/11/2026 | Python : Démo simple | Variables, conditions (if/elif/else), boucle while | [Journal](journal/2026-11-24.md) |
+| 25/11/2026 | JavaScript : Démo simple | Variables, conditions (if/else if/else), boucle while | [Journal](journal/2026-11-25.md) |
