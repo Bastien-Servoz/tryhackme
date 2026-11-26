@@ -14,3 +14,4 @@ Parcours TryHackMe suivi dans l'ordre. Aucune réponse, aucun flag ni texte de s
 | 23/11/2026 | Encodage des données | ASCII, ISO-8859, Unicode, UTF-8/16/32 | [Journal](journal/2026-11-23.md) |
 | 24/11/2026 | Python : Démo simple | Variables, conditions (if/elif/else), boucle while | [Journal](journal/2026-11-24.md) |
 | 25/11/2026 | JavaScript : Démo simple | Variables, conditions (if/else if/else), boucle while | [Journal](journal/2026-11-25.md) |
+| 26/11/2026 | Database SQL Basics | Bases de données, SQL (SELECT, FROM, WHERE, ORDER BY) | [Journal](journal/2026-11-26.md) |
