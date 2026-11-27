@@ -15,3 +15,4 @@ Parcours TryHackMe suivi dans l'ordre. Aucune réponse, aucun flag ni texte de s
 | 24/11/2026 | Python : Démo simple | Variables, conditions (if/elif/else), boucle while | [Journal](journal/2026-11-24.md) |
 | 25/11/2026 | JavaScript : Démo simple | Variables, conditions (if/else if/else), boucle while | [Journal](journal/2026-11-25.md) |
 | 26/11/2026 | Database SQL Basics | Bases de données, SQL (SELECT, FROM, WHERE, ORDER BY) | [Journal](journal/2026-11-26.md) |
+| 27/11/2026 | Qu'est-ce que le réseautage ? | Réseaux, Internet, adresses IP et MAC, ping | [Compte rendu](journal/2026-11-27.md) |
